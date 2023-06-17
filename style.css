@@ -88,28 +88,28 @@ body{
         width: 360px;
     }
     .container .wheel .number span{
-        font-size: 1.5em;
-        color: red;
+        font-size: 1.6em;
+/*         color: red; */
     }
 }
 @media (max-width:670px)  { 
     .container{
-        height: 300px;
-        width: 300px;
+        height: 320px;
+        width: 320px;
     }
     .container .wheel .number span{
-        font-size: 1.2em;
-        color: green;
+        font-size: 1.4em;
+/*         color: green; */
     }
 }
 @media (max-width:520px)  { 
     .container{
-        height: 250px;
-        width: 250px;
+        height: 280px;
+        width: 280px;
     }
     .container .wheel .number span{
-        font-size: 1em;
-        color: yellow;
+        font-size: 1.2em;
+/*         color: yellow; */
     }
 }
 @media (max-width:370px)  { 
